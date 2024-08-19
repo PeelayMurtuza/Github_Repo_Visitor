@@ -35,7 +35,7 @@ function UserSearch() {
           <div className="absolute inset-0 bg-black opacity-50"></div>
           <div className="relative text-center text-white">
             <h1 className="mb-4 text-5xl font-extrabold">Github Repository Visitor </h1>
-            <p className="text-lg">Unleash the power of open source collaboration.</p>
+            <p className="text-lg">Search Real Time Data and Visits their Repository in less then a second </p>
           </div>
         </div>
       )}
